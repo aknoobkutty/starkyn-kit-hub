@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Ak Magical Project](https://lovable.dev/projects/ccbad968-3c29-420f-92e1-2a21e6c63068) and start prompting.
+Simply visit the [Ak Magical Project](https://starkyn-kit-hub.lovable.app/) and start prompting.
 
 
 **Use your preferred IDE**
