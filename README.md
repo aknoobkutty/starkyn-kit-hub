@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/ccbad968-3c29-420f-92e1-2a21e6c63068
+**URL**: https://starkyn-kit-hub.lovable.app/
 
 ## How can I edit this code?
 
