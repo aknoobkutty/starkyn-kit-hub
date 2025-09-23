@@ -11,17 +11,17 @@ const Contact = () => {
     {
       icon: <MapPin className="h-6 w-6 text-tech-accent" />,
       title: "Our Location",
-      details: ["123 Tech Park, Innovation District", "Bangalore, Karnataka 560001", "India"]
+      details: ["4/1c STARKYN TECHNOLOGIES ", "UDUMALEPET, TIRUPPUR   642126", "India"]
     },
     {
       icon: <Phone className="h-6 w-6 text-tech-light-blue" />,
       title: "Phone Numbers",
-      details: ["+91 98765 43210", "+91 87654 32109", "Toll Free: 1800-123-4567"]
+      details: ["+91 97914 96777"]
     },
     {
       icon: <Mail className="h-6 w-6 text-primary" />,
-      title: "Email Addresses",
-      details: ["info@starkyntech.com", "support@starkyntech.com", "sales@starkyntech.com"]
+      title: "Email Addresse",
+      details: ["starkyn.industries@gmail.com"]
     },
     {
       icon: <Clock className="h-6 w-6 text-tech-navy" />,
@@ -33,7 +33,7 @@ const Contact = () => {
   const quickContacts = [
     {
       platform: "WhatsApp",
-      contact: "+91 98765 43210",
+      contact: "+91 97914 96777",
       description: "Quick support and instant responses",
       color: "bg-green-500"
     },
@@ -110,7 +110,7 @@ const Contact = () => {
                     </div>
                     <div className="space-y-2">
                       <Label htmlFor="phone">Phone Number</Label>
-                      <Input type="tel" id="phone" placeholder="+91 98765 43210" />
+                      <Input type="tel" id="phone" placeholder="+91 XXXXX XX210" />
                     </div>
                   </div>
                   
@@ -196,7 +196,9 @@ const Contact = () => {
                 <p className="text-primary font-medium mb-2">{contact.contact}</p>
                 <p className="text-muted-foreground text-sm">{contact.description}</p>
                 <Button variant="outline" className="mt-4 group-hover:bg-primary group-hover:text-primary-foreground transition-colors">
+                  <a href="https://wa.me/919791496777?text=Hello%20I%20want%20to%20know%20more%20about%20your%20services" target="_blank">
                   Connect Now
+                  </a>
                 </Button>
               </Card>
             ))}
@@ -239,7 +241,7 @@ const Contact = () => {
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold text-foreground mb-4">Visit Our Office</h2>
             <p className="text-xl text-muted-foreground">
-              Located in the heart of Bangalore's tech district
+              Located in the heart of Tiruppur industrialized district
             </p>
           </div>
           
@@ -250,7 +252,7 @@ const Contact = () => {
                 <h3 className="text-2xl font-bold mb-2">Interactive Map</h3>
                 <p className="text-gray-300">Map integration will be added here</p>
                 <Button variant="secondary" className="mt-4">
-                  Get Directions
+                  <a href="https://maps.app.goo.gl/QWhGUmNZfNjckKWs7">Directions</a>
                 </Button>
               </div>
             </div>
