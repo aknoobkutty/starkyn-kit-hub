@@ -110,7 +110,7 @@ const Portfolio = () => {
   const stats = [
     { number: "50+", label: "Projects Completed", icon: <Zap className="h-6 w-6" /> },
     { number: "25+", label: "Happy Clients", icon: <Users className="h-6 w-6" /> },
-    { number: "4+", label: "Years Experience", icon: <Calendar className="h-6 w-6" /> },
+    // { number: "4+", label: "Years Experience", icon: <Calendar className="h-6 w-6" /> },
     { number: "15+", label: "Technologies", icon: <ExternalLink className="h-6 w-6" /> }
   ];
 

@@ -31,7 +31,7 @@ const Services = () => {
         "Quality assurance testing"
       ],
       duration: "4-16 weeks",
-      price: "From ₹25,000"
+      price: "Custom Quote"
     },
     {
       icon: <GraduationCap className="h-12 w-12 text-primary" />,
@@ -45,7 +45,7 @@ const Services = () => {
         "Online & offline modes"
       ],
       duration: "1-5 days",
-      price: "From ₹2,500/person"
+      price: "Custom Quote"
     }
   ];
 

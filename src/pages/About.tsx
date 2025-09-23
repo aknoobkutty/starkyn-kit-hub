@@ -76,13 +76,13 @@ const About = () => {
             <div className="grid grid-cols-2 gap-6">
               <Card className="text-center p-6">
                 <CardContent className="pt-6">
-                  <div className="text-3xl font-bold text-tech-accent mb-2">500+</div>
+                  <div className="text-3xl font-bold text-tech-accent mb-2">50+</div>
                   <div className="text-sm text-muted-foreground">Products Available</div>
                 </CardContent>
               </Card>
               <Card className="text-center p-6">
                 <CardContent className="pt-6">
-                  <div className="text-3xl font-bold text-tech-light-blue mb-2">1000+</div>
+                  <div className="text-3xl font-bold text-tech-light-blue mb-2">100+</div>
                   <div className="text-sm text-muted-foreground">Students Served</div>
                 </CardContent>
               </Card>
@@ -94,7 +94,7 @@ const About = () => {
               </Card>
               <Card className="text-center p-6">
                 <CardContent className="pt-6">
-                  <div className="text-3xl font-bold text-tech-navy mb-2">4+</div>
+                  <div className="text-3xl font-bold text-tech-navy mb-2">1+</div>
                   <div className="text-sm text-muted-foreground">Years of Excellence</div>
                 </CardContent>
               </Card>
@@ -170,7 +170,7 @@ const About = () => {
         </div>
       </section>
 
-      {/* Timeline Section */}
+      {/* Timeline Section
       <section className="py-20 bg-gradient-to-r from-tech-dark to-tech-navy text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
@@ -210,7 +210,7 @@ const About = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* Team Section */}
       <section className="py-20">

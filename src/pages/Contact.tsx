@@ -252,7 +252,8 @@ const Contact = () => {
                 <h3 className="text-2xl font-bold mb-2">Interactive Map</h3>
                 <p className="text-gray-300">Map integration will be added here</p>
                 <Button variant="secondary" className="mt-4">
-                  <a href="https://maps.app.goo.gl/QWhGUmNZfNjckKWs7">Directions</a>
+                  <a href="https://www.google.com/maps/place/10%C2%B031'58.8%22N+77%C2%B018'16.9%22E/@10.5321828,77.3043224,655m/data=!3m1!1e3!4m4!3m3!8m2!3d10.532986!4d77.304687?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D">
+                  Directions</a>
                 </Button>
               </div>
             </div>
